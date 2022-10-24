@@ -20,6 +20,9 @@ El mas pequeño seria " ###### Encabezado mas pequeño "
 
 Para decorar el texto podemos hacer que sea negrita o cursiva:
 
-Para la __negrita__ escribimos "__ texto __" todo junto.
+Para la __negrita__ escribimos "__ texto__" todo junto.
 
 Para la _cursiva_ escribimos "_ texto_" todo junto.
+
+Para crear listas tenemos 2 opciones: Ordenadas o desordenadas:
+
