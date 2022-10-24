@@ -1,6 +1,6 @@
 # Documentacion MP4_UF1
 
-## Git y GitHub
+## GitHub
 
 ### Creación de un repositorio:
 Crear un repositorio en GitHub es muy senzillo, desde este [enlace](https://github.com/new) se accede a la pestaña de creación.
@@ -9,7 +9,7 @@ Imagen1
 
 Una vez creado el repositorio podemos utilizar un lenguaje de marcas llamado Markdown para escribir dentro del readme.md.
 
-## Markdown (Lenguaje de marcas)
+### Markdown (Lenguaje de marcas)
 Este lenguaje de marcas es el predefinido por GitHub y asi es como se utiliza:
 
 Para empezar los encabezados o títulos, tenemos 6 tamaños y siempre sigue la misma estructura, un # y el texto.
@@ -49,5 +49,9 @@ Imagen2
 Imagen3
 
 Su estructura es " ![Texto por si no carga la imagen](url de la imagen subida a github) "
+
+## Git y Visual Studio Code
+
+### Instalación:
 
 
