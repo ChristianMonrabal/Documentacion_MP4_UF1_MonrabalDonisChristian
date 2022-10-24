@@ -62,15 +62,15 @@ Git es otro software que vamos a utilizar para poder clonar repositorios desde G
 
 Una vez instalado los 2 software, procedemos a clonar un repositorio:
 
-Imagen4
+![Imagen4](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/4.png?raw=true)
 
 Una vez cogida la url del repositorio entramos a VSC entraremos a su terminal (ctrl + ñ).
 
 Escribiremos "git clone y la url del repositorio"
 
-Imagen5
+![Imagen5](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/5.png?raw=true)
 
-Imagen6
+![Imagen6](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/6.png?raw=true)
 
 Si hemos realizado cambios en local y queremos subirlos a GitHub hay que utilizar esta linea de comandos:
 - git add .
@@ -86,11 +86,11 @@ Dentro vamos al apartado "branch", veremos un cuadrado donde esta escrito "none"
 
 Una vez hecho nos aparecera la url de la página.
 
-Imagen7
+![Imagen7](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/7.png?raw=true)
 
 Cuando tengamos la url, la copiamos (ctrl C + ctrl V) y tenemos que pegarla igual que en la imagen:
 
-Imagen8
+![Imagen8](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/8.png?raw=true)
 
 ## HTML en Visual Studio Code
 
