@@ -40,7 +40,7 @@ Para la lista desordenada se puede hacer de 3 maneras (+, *, -).
 
 Para introducir un enlace, la estructura es: " [Texto que queremos que se vea](Enlace/Url de la pagina)
 
-[Ejemplo](https://github.com/ChristianMonrabal?tab=repositories)
+[Ejemplo Enlace](https://github.com/ChristianMonrabal?tab=repositories)
 
 Para insertar una imagen en Markdown, hay que subir la imagen desde local a el repositorio:
 
