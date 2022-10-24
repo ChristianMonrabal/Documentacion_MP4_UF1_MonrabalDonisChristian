@@ -52,6 +52,9 @@ Su estructura es " ![Texto por si no carga la imagen](url de la imagen subida a 
 
 ## Git y Visual Studio Code
 
+Visual Studio code es un software donde se puede escribir lenguajes de marcas como (html, css, javaScript, PHP) entre otros. Al ser un software se trabaja en local por lo que mediante este [enlace](https://code.visualstudio.com/download) podras descargarlo.
+
 ### Instalación:
 
+Para poder 
 
