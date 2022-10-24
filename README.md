@@ -42,4 +42,5 @@ Para introducir un enlace, la estructura es: " [Texto que queremos que se vea](E
 
 [Ejemplo](https://github.com/ChristianMonrabal?tab=repositories)
 
+Para insertar una imagen en Markdown, hay que subir la imagen desde local a el repositorio.
 
