@@ -30,7 +30,7 @@ Para la lista ordenada basta con escribir un " 1. " y automaticamente se autogen
 1. Ejemplo 
 2. Ejemplo 
 
-Para la lista desordenada se puede hacer de 3 maneras " +, *, -)
+Para la lista desordenada se puede hacer de 3 maneras (+, *, -).
 + (+) Ejemplo 1
 + (+) Ejemplo 2
 - (-) Ejemplo 1
