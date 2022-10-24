@@ -17,3 +17,7 @@ Para empezar los encabezados o títulos, tenemos 6 tamaños y siempre sigue la m
 Para poner el mas grande seria " # Encabezado mas grande "
 
 El mas pequeño seria " ###### Encabezado mas pequeño "
+
+Para decorar el texto podemos hacer que sea negrita o cursiva:
+
+Para la _negrita_ escribimos " _texto_ "
