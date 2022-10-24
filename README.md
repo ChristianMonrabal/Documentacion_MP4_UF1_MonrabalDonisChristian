@@ -92,5 +92,7 @@ Cuando tengamos la url, la copiamos (ctrl C + ctrl V) y tenemos que pegarla igua
 
 ![Imagen8](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/8.png?raw=true)
 
+![Imagen9](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/9.png?raw=true)
+
 ## HTML en Visual Studio Code
 
