@@ -54,7 +54,42 @@ Su estructura es " ![Texto por si no carga la imagen](url de la imagen subida a 
 
 Visual Studio code es un software donde se puede escribir lenguajes de marcas como (html, css, javaScript, PHP) entre otros. Al ser un software se trabaja en local por lo que mediante este [enlace](https://code.visualstudio.com/download) podras descargarlo.
 
-### Instalación:
+Para nosotros, es una herramienta que nos permite escribir codigo en local y poder subirlo a GitHub. Para ello utilizamos otra herramienta llamada Git.
 
-Para poder 
+Git es otro software que vamos a utilizar para poder clonar repositorios desde GitHub a nuestro ordenador y poder trabajar en VSC de forma local. Se puede descargar mediante este [enlace](https://git-scm.com/downloads).
+
+### Clonar repositorio de GitHub a VSC
+
+Una vez instalado los 2 software, procedemos a clonar un repositorio:
+
+Imagen4
+
+Una vez cogida la url del repositorio entramos a VSC entraremos a su terminal (ctrl + ñ).
+
+Escribiremos "git clone y la url del repositorio"
+
+Imagen5
+
+Imagen6
+
+Si hemos realizado cambios en local y queremos subirlos a GitHub hay que utilizar esta linea de comandos:
+- git add .
+- git commit -m "texto que indica la ultima actualización"
+- git push
+
+### GitHub Pages
+En el caso de que hayamos escrito codigo html entre otros y queremos que sea una pagina publica, utilizaremos esta función:
+
+Dentro del repositorio, entramos en configuración y vamos al apartado "pages".
+
+Dentro vamos al apartado "branch", veremos un cuadrado donde esta escrito "none", hay que cambiarlo por "main" y "save" para guardar los cambios.
+
+Una vez hecho nos aparecera la url de la página.
+
+Imagen7
+
+Cuando tengamos la url, la copiamos (ctrl C + ctrl V) y tenemos que pegarla igual que en la imagen:
+
+Imagen8
+
 
