@@ -38,6 +38,8 @@ Para la lista desordenada se puede hacer de 3 maneras (+, *, -).
 * (*) Ejemplo 1
 * (*) Ejemplo 2
 
-Para introducir un enlace como hemos visto al crear un repositorio, la estructura es: " [Texto que queremos que se vea](Enlace/Url de la pagina)
+Para introducir un enlace, la estructura es: " [Texto que queremos que se vea](Enlace/Url de la pagina)
+
+[Ejemplo](https://github.com/ChristianMonrabal?tab=repositories)
 
 
