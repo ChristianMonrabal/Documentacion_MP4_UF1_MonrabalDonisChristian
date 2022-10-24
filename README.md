@@ -13,4 +13,5 @@ Una vez creado el repositorio podemos utilizar un lenguaje de marcas llamado Mar
 Este lenguaje de marcas es el predefinido por GitHub y asi es como se utiliza:
 
 Para empezar los encabezados o títulos, tenemos 6 tamaños:
-Para poner el mas grande seria ( # Encabezado mas grande )
+
+Para poner el mas grande seria "# Encabezado mas grande"
