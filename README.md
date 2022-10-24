@@ -48,6 +48,6 @@ Imagen2
 
 Imagen3
 
-Su estructura es " ![Texto por si no carga la imagen](url de la imagen subida a github)
+Su estructura es " ![Texto por si no carga la imagen](url de la imagen subida a github) "
 
 
