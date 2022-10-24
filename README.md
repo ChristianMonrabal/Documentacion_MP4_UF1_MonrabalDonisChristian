@@ -27,5 +27,16 @@ Para la _cursiva_ escribimos "_ texto_" todo junto.
 Para crear listas tenemos 2 opciones: Ordenadas o desordenadas:
 
 Para la lista ordenada basta con escribir un " 1. " y automaticamente se autogenerarian en cada linea.
-1. Ejemplo 1
-2. Ejemplo 2
+1. Ejemplo 
+2. Ejemplo 
+
+Para la lista desordenada se puede hacer de 3 maneras " +, *, -)
++ Ejemplo 1
++ Ejemplo 2
+- Ejemplo 1
+- Ejemplo 2
+* Ejemplo 1
+* Ejemplo 2
+
+
+
