@@ -20,4 +20,4 @@ El mas pequeño seria " ###### Encabezado mas pequeño "
 
 Para decorar el texto podemos hacer que sea negrita o cursiva:
 
-Para la __negrita__ escribimos "__texto__"
+Para la __negrita__ escribimos "__ texto __" todo junto
