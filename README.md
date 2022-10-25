@@ -126,16 +126,17 @@ La primera etiqueta que debemos conocer es "<title>", se utiliza para el titulo 
   
 La siguiente es <link:favicon>, se utiliza para poner un icono en la página, para ello crearemos una carpeta llamada "img", donde guardaremos todas las iamgenes que queramos guardar:
   
-Imagen16
+![Imagen16](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/16.png?raw=true)
   
 Una vez hecho, descargaremos una imagen (cualquiera) y la meteremos en la carpeta "img" desde el explorador de archivos:
 
-Imagen17
+![Imagen17](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/17.png?raw=true)
   
 Utilizaremos la etiqueta "<link:favicon>" justo debajo de "<title>", esta es la estructura:
   
-Imagen18
+![Imagen18](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/18.png?raw=true)
 
+![Imagen19(https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/19png?raw=true)
 
 
 
