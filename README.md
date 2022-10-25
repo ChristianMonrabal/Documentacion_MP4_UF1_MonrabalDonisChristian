@@ -55,7 +55,7 @@ Visual Studio code es un software donde se puede escribir lenguajes de marcas co
 
 Para nosotros, es una herramienta que nos permite escribir codigo en local y poder subirlo a GitHub. Para ello utilizamos otra herramienta llamada Git.
 
-Git es otro software que vamos a utilizar para poder clonar repositorios desde GitHub a nuestro ordenador y poder trabajar en VSC de forma local. Se puede descargar mediante este [enlace](https://git-scm.com/downloads).
+Git es otro software que vamos a utilizar para poder clonar repositorios desde GitHub a nuestro ordenador y poder trabajar en VSC de forma local. También se utiliza para exportar de VSC a GitHub Se puede descargar mediante este [enlace](https://git-scm.com/downloads).
 
 ### Clonar repositorio de GitHub a VSC
 
