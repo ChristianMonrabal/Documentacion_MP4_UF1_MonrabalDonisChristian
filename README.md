@@ -95,3 +95,28 @@ Cuando tengamos la url, la copiamos (ctrl C + ctrl V) y tenemos que pegarla igua
 
 ## HTML en Visual Studio Code
 
+Las paginas web tienen como mínimo una página creada con HTML, la primera página html tiene que tener el nombre de "index.html" ya que el navegador entenderia que esa es la página principal y es la primera que va amostrar.
+
+Para crear una página HTML hay que seguir estos pasos:
+
+Imagen10
+
+Para empezar a escribir html haremos esto:
+
+Escribiremos "html" en nuestra página "index.html" y seleccionaremos la opción "html:5"
+
+Imagen11
+
+Una vez hecho "index.html" tendria que tener esta estructura:
+
+Imagen12
+
+Para poder visualizar nuestra página 
+
+
+
+
+
+
+
+
