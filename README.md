@@ -136,6 +136,8 @@ Utilizaremos la etiqueta "<link:favicon>" justo debajo de "<title>", esta es la 
   
 ![Imagen18](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/18.png?raw=true)
 
+Este es el resultado:
+
 ![Imagen19](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/19.png?raw=true)
 
 
