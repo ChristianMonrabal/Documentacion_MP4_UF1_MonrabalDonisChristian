@@ -116,11 +116,25 @@ Para poder visualizar nuestra página en nuestro navegador haremos (Shfit + alt 
 Imagen 13
 
 ### Etiquetas HTML
+Lo primero que debemos saber es que la mayoria de etiquetas se tienen que abrir y cerrar. Para crear una etiqueta debemos escribir "<etiqueta>" y para cerrar </etiqueta>.
 
+La primera etiqueta que debemos conocer es "<title>", se utiliza para el titulo de cada página en el navegador:
 
+Imagen14
+  
+Imagen15
+  
+La siguiente es <link:favicon>, se utiliza para poner un icono en la página, para ello crearemos una carpeta llamada "img", donde guardaremos todas las iamgenes que queramos guardar:
+  
+Imagen16
+  
+Una vez hecho, descargaremos una imagen (cualquiera) y la meteremos en la carpeta "img" desde el explorador de archivos:
 
-
-
+Imagen17
+  
+Utilizaremos la etiqueta "<link:favicon>" justo debajo de "<title>", esta es la estructura:
+  
+Imagen18
 
 
 
