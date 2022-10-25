@@ -99,30 +99,30 @@ Las paginas web tienen como mínimo una página creada con HTML, la primera pág
 
 Para crear una página HTML hay que seguir estos pasos:
 
-Imagen10
+![imagen10](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/10.png?raw=true)
 
 Para empezar a escribir html haremos esto:
 
 Escribiremos "html" en nuestra página "index.html" y seleccionaremos la opción "html:5"
 
-Imagen11
+![Imagen11](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/11.png?raw=true)
 
 Una vez hecho "index.html" tendria que tener esta estructura:
 
-Imagen12
+![Imagen12](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/12.png?raw=true)
 
 Para poder visualizar nuestra página en nuestro navegador haremos (Shfit + alt + r) y se abrira la carpeta donde esta almacenada todo el proyecto de VSC, una vez dentro clicaremos en "index.html" y la podremos visualizar
 
-Imagen 13
+![Imagen13](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/13.png?raw=true)
 
 ### Etiquetas HTML
 Lo primero que debemos saber es que la mayoria de etiquetas se tienen que abrir y cerrar. Para crear una etiqueta debemos escribir "<etiqueta>" y para cerrar </etiqueta>.
 
 La primera etiqueta que debemos conocer es "<title>", se utiliza para el titulo de cada página en el navegador:
 
-Imagen14
+![Imagen14](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/14.png?raw=true)
   
-Imagen15
+![Imagen15](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/15.png?raw=true)
   
 La siguiente es <link:favicon>, se utiliza para poner un icono en la página, para ello crearemos una carpeta llamada "img", donde guardaremos todas las iamgenes que queramos guardar:
   
