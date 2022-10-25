@@ -116,7 +116,7 @@ Para poder visualizar nuestra página en nuestro navegador haremos (Shfit + alt 
 ![Imagen13](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/13.png?raw=true)
 
 ### Etiquetas HTML
-Lo primero que debemos saber es que la mayoria de etiquetas se tienen que abrir y cerrar. Para crear una etiqueta debemos escribir "<etiqueta>" y para cerrar </etiqueta>.
+Lo primero que debemos saber es que la mayoria de etiquetas se tienen que abrir y cerrar. Para crear una etiqueta debemos escribir <etiqueta> y para cerrar </etiqueta>.
 
 La primera etiqueta que debemos conocer es "<title>", se utiliza para el titulo de cada página en el navegador:
 
