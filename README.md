@@ -111,7 +111,13 @@ Una vez hecho "index.html" tendria que tener esta estructura:
 
 Imagen12
 
-Para poder visualizar nuestra página 
+Para poder visualizar nuestra página en nuestro navegador haremos (Shfit + alt + r) y se abrira la carpeta donde esta almacenada todo el proyecto de VSC, una vez dentro clicaremos en "index.html" y la podremos visualizar
+
+Imagen 13
+
+### Etiquetas HTML
+
+
 
 
 
