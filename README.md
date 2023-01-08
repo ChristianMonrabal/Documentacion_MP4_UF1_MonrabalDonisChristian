@@ -158,7 +158,7 @@ Para vincular la hoja de estilos CSS al html, debemos crear un link en el head d
   
 Se utiliza para todas las mismas etiquetas de la pagina html
   
-En el caso de la siguiente imagen, tenemos un "<h6>", este selector modificara de tal forma que __TODOS__ los "<h6>" sean de color "aqua"
+En el caso de la siguiente imagen, tenemos un h6, este selector modificara de tal forma que __TODOS__ los h6 sean de color "aqua"
 
 Imagen22
   
