@@ -143,3 +143,15 @@ Este es el resultado:
 ## Etiquetas HTML (body)
 
 ![Imagen20](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/20.png?raw=true)
+  
+## Estilos CSS
+  
+El CSS es el lenguaje para modificar el diseño al html.
+  
+Para vincular la hoja de estilos CSS al html, debemos crear un link en el head del html:
+  
+[Imagen20]
+  
+
+  
+  
