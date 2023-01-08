@@ -190,7 +190,7 @@ Selecciona todos los elementos.
 
 Se expresa mediante *
 
-![Imagen27]()
+![Imagen27](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/27.png)
   
 ## Atributos CSS
 
