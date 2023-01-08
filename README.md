@@ -160,7 +160,7 @@ Se utiliza para todas las mismas etiquetas de la pagina html
   
 En el caso de la siguiente imagen, tenemos un h6, este selector modificara de tal forma que __TODOS__ los h6 sean de color "aqua"
 
-Imagen22
+![Imagen22](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/22.png)
   
 ### Selector de clase
   
@@ -168,7 +168,7 @@ El selector de clase selecciona todos los elementos con una determinada clase. S
   
 En la pagina html, tenemos que expresar mediante el atributo "class", el nombre de la clase
   
-Imagen23
+![Imagen23](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/23.png)
 Imagen24
   
 ### Selector ID:
