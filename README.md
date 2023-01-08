@@ -140,12 +140,6 @@ Este es el resultado:
 
 ![Imagen19](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/19.png?raw=true)
 
-La siguiente etiqueta es < h1 >, que se utiliza para hacer titulos. Esta etiqueta tiene 6 variables:
 
-Tenemos <h1> que son los titulos mas grandes, hasta <h6> que son los mas pequeños
-
-![Imagen20]
-
-Para escribir parrafos 
 
 
