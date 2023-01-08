@@ -159,6 +159,15 @@ Para vincular la hoja de estilos CSS al html, debemos crear un link en el head d
 Se utiliza para todas las mismas etiquetas de la pagina html
   
 En el caso de la siguiente imagen, tenemos un h6, este selector modificara de tal forma que __TODOS__ los h6 sean de color "aqua"
-
+  
+### Selector de clase
+  
+El selector de clase selecciona todos los elementos con una determinada clase. Se representa con el símbolo . seguido del nombre de la clase
+  
+En la pagina html, tenemos que expresar mediante el atributo "class", el nombre de la clase
+  
 Imagen22
+Imagen23
+  
+
   
