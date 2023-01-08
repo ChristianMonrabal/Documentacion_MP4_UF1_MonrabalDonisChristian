@@ -169,5 +169,13 @@ En la pagina html, tenemos que expresar mediante el atributo "class", el nombre 
 Imagen22
 Imagen23
   
+### Selector ID:
+  
+Selecciona un elemento basándose en el valor de su atributo id.
+  
+Se expresa mediante un #
+  
+Este selector es como el DNI de las personas, solo puede haber 1 igual, no se puede repetir, en este caso el mismo id.
+  
 
   
