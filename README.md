@@ -159,6 +159,8 @@ Para vincular la hoja de estilos CSS al html, debemos crear un link en el head d
 Se utiliza para todas las mismas etiquetas de la pagina html
   
 En el caso de la siguiente imagen, tenemos un h6, este selector modificara de tal forma que __TODOS__ los h6 sean de color "aqua"
+
+Imagen22
   
 ### Selector de clase
   
@@ -166,8 +168,8 @@ El selector de clase selecciona todos los elementos con una determinada clase. S
   
 En la pagina html, tenemos que expresar mediante el atributo "class", el nombre de la clase
   
-Imagen22
 Imagen23
+Imagen24
   
 ### Selector ID:
   
@@ -176,6 +178,16 @@ Selecciona un elemento basándose en el valor de su atributo id.
 Se expresa mediante un #
   
 Este selector es como el DNI de las personas, solo puede haber 1 igual, no se puede repetir, en este caso el mismo id.
+
+Imagen25
+Imagen26
   
+### Selector Universal:
+
+Selecciona todos los elementos.
+
+Se expresa mediante *
+
+Imagen27
 
   
