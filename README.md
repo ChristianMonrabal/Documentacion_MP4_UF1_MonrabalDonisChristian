@@ -189,5 +189,9 @@ Selecciona todos los elementos.
 Se expresa mediante *
 
 Imagen27
+  
+## Atributos CSS
+
+Imagen28
 
   
