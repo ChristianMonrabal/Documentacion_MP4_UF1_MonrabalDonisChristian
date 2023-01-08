@@ -169,7 +169,8 @@ El selector de clase selecciona todos los elementos con una determinada clase. S
 En la pagina html, tenemos que expresar mediante el atributo "class", el nombre de la clase
   
 ![Imagen23](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/23.png)
-Imagen24
+
+![Imagen24](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/24.png)
   
 ### Selector ID:
   
@@ -179,8 +180,9 @@ Se expresa mediante un #
   
 Este selector es como el DNI de las personas, solo puede haber 1 igual, no se puede repetir, en este caso el mismo id.
 
-Imagen25
-Imagen26
+![Imagen25](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/25.png)
+  
+![Imagen26](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/26.png)
   
 ### Selector Universal:
 
@@ -188,10 +190,10 @@ Selecciona todos los elementos.
 
 Se expresa mediante *
 
-Imagen27
+![Imagen27]()
   
 ## Atributos CSS
 
-Imagen28
+![Imagen28](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/28.png)
 
   
