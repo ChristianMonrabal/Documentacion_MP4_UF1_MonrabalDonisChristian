@@ -150,7 +150,7 @@ El CSS es el lenguaje para modificar el diseño al html.
   
 Para vincular la hoja de estilos CSS al html, debemos crear un link en el head del html:
   
-[Imagen21]
+![Imagen21](https://github.com/ChristianMonrabal/Documentacion_MP4_UF1_MonrabalDonisChristian/blob/main/21.png)
   
 ## Tipos de selectores CSS
   
